@@ -72,4 +72,6 @@ em, i {
 
 /* your custom styling */
 
-
+body{
+	background-color: grey;
+}
