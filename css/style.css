@@ -81,3 +81,7 @@ body{
 p{
 	background-color: blue;
 }
+
+img{
+	border: 2pt solid #00ff00;
+}
